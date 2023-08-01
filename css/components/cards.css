@@ -1,0 +1,18 @@
+.cards{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card{
+  margin: 30px;
+}
+
+.card img{
+  object-fit: cover;
+  object-position: center;
+  width: 400px;
+  height: 400px;
+  box-shadow: rgba(149, 157, 165, 0.4) 0px 8px 24px;
+
+}
